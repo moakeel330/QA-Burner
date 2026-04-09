@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "backend/venv/Scripts/python.exe",
+  "editor.formatOnSave": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "ts"
+  }
+}
